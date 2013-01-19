@@ -1,0 +1,1 @@
+﻿package tests.assets {		public class ScopeTest {			// Constants:			// Public Properties:		public var iA:Number;		public var iB:Number;		public static var sA:Number;		public static var sB:Number;												// Protected Properties:					// Initialization:					// Public getter / setters:			// Public Methods:					// Protected Methods:			}	}
